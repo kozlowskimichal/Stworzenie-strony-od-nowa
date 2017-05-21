@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+nav#manu {
+    text-aligin: center;
+    background: #222;
+}
+
+nav#menu > ul{
+    margin: 0;
+}
+
+nav#manu > ul >li.menu item{ 
+display: inline-block;
+padding: 25px;
+list-style: none;
+}
+
+nav#manu > ul >li.manu-item a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav#manu > ul >li.manu-item ahover: {
+    text-decoration: none;
+    color: #999;
+}
